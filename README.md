@@ -51,7 +51,7 @@ Welcome to the Excel Repository dedicated to data science and analysis! This rep
 1. Clone the repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/Avinash.Darekar/excel-repository.git
+   git clone [htpts://github.com/Moogli0602/Advance-Excel-Projects-Assignments]
    ```
 
 2. Open the desired Excel practice sheet using Microsoft Excel or any compatible spreadsheet software.
